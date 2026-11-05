@@ -1,14 +1,31 @@
-# Projeto_Veigh
-Este projeto foi desenvolvido utilizando como inspiração a música "Tendenciosa", do Veigh. Escolhi essa música por ser uma das minhas favoritas e também como forma de aplicar e praticar meus conhecimentos em Python.
+# 🎵 Projeto Veigh
 
-Durante o desenvolvimento, pude reforçar conceitos importantes da linguagem e adquirir mais experiência na organização de arquivos e diretórios do projeto.
+Projeto pessoal desenvolvido em **Python**, inspirado na música **“Tendenciosa”, do Veigh**.
 
-Um dos principais desafios foi o gerenciamento das pastas e o envio correto dos arquivos para o GitHub. Esse processo me ajudou a compreender melhor a estrutura de projetos e o controle de versões, contribuindo para meu aprendizado e evolução como desenvolvedor.
+A ideia foi aproveitar uma referência musical de que gosto para praticar programação e transformar um interesse pessoal em um exercício de desenvolvimento.
 
-Objetivo
-Praticar programação em Python.
-Aplicar conceitos aprendidos durante os estudos.
-Aprimorar a organização de projetos.
-Desenvolver familiaridade com o Git e o GitHub.
+## 🎯 Objetivos
 
-Este projeto faz parte da minha jornada de aprendizado e representa minha evolução na área de Desenvolvimento de Software. Pretendo continuar aprimorando este projeto e desenvolver novas funcionalidades conforme adquiro mais experiência.
+- Praticar Python.
+- Aplicar os conceitos estudados.
+- Ganhar familiaridade com a organização de arquivos e pastas.
+- Exercitar o uso do Git e do GitHub para versionamento.
+
+## 🛠️ Tecnologia utilizada
+
+- **Python**
+
+## 📖 Sobre o desenvolvimento
+
+Durante a criação do projeto, também pratiquei a organização dos arquivos e o processo de publicar o código no GitHub. Enfrentei dificuldades nessa etapa, especialmente com pastas e envio dos arquivos, mas isso fez parte do aprendizado.
+
+## 🚀 Próximos passos
+
+Conforme avançar nos estudos, pretendo revisar o código, documentar melhor seu funcionamento e avaliar novas funcionalidades.
+
+## 👨‍💻 Autor
+
+**Isaac Oliveira Pizo**  
+Estudante do Ensino Médio e do curso técnico em Desenvolvimento de Sistemas.
+
+*Projeto de estudo desenvolvido para praticar programação.*
